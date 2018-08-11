@@ -1,0 +1,7 @@
+What is your gender?,AGE,"Of these two cities, Chicago and New York City which one do you think had the highest violent crime rate in 2014?","Of these two cities, Chicago and New York City which one do you think had the highest violent crime rate in 2018?",Would you base you decision to visit either of these two cities base on the violent crime rate?,ASSAULT,HOMICDE,RAPE,ROBBERY,Timestamp
+Female,30,Chicago,Chicago,Yes,Assault,3,4,3,7/24/2018 23:58
+Female,41,Chicago,Chicago,No,3,4,4,3,7/25/2018 12:29
+Female,46,Chicago,Chicago,Yes,3,3,2,3,7/25/2018 6:18
+Female,48,Chicago,Chicago,Yes,2,4,4,2,7/24/2018 23:55
+Female,49,Chicago,Chicago,No,2,4,4,1,7/25/2018 9:46
+Male,59,Chicago,Chicago,Yes,4,4,4,4,7/25/2018 7:41
